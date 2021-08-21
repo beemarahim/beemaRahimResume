@@ -54,7 +54,20 @@ img{
     }
   }
 
-
+  @media only screen and (max-width: 768px) {
+   
+    .intro-div{
+        
+        height: 440px;
+              
+       
+    }
+    img{
+        height: 190px;
+        width: 285px;
+     margin-left: 70px;
+     }
+  }
 
 
 
