@@ -45,7 +45,14 @@ img{
     border-style: double;
     border-color: #82858c;
 }
-
+@media only screen and (max-width: 768px) {
+   
+    .personal-details-div{
+       
+        height: 160px;
+       
+    }
+  }
 
 
 
