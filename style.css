@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
 
 
-
 .intro-div{
     background-color: #b1b3bd;
     height: 220px;
@@ -56,18 +55,33 @@ img{
 
   @media only screen and (max-width: 768px) {
    
-    .intro-div{
-        
-        height: 440px;
-              
-       
-    }
+    
     img{
         height: 190px;
-        width: 285px;
-     margin-left: 70px;
+        width: 155px;
+       
      }
+     
   }
+  @media only screen and (max-width: 768px) {
+    .intro-div-details{
+        margin-left: 15px;
+        margin-top: 205px;
+        
+    }
+  
+     }
+     @media only screen and (max-width: 768px) {
+   
+        .intro-div{
+    
+                    height: 460px;             
+         
+        }
+        
+         
+      }
+     
 
 
 
