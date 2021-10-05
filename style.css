@@ -24,7 +24,7 @@ img{
 }
 
 .intro-div-details{
-    margin-left: -620px;
+    margin-left: 620px;
 }
 
 .personal-details-div{
@@ -84,11 +84,7 @@ img{
          
       }
 
-  @media only screen and (max-width: 745px) {
-    .intro-div-details{
-  margin-bottom:35px;
-        
-    }
+
      
 
 
