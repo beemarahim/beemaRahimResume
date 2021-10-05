@@ -82,6 +82,12 @@ img{
         
          
       }
+
+  @media only screen and (max-width: 745px) {
+    .intro-div-details{
+  margin-bottom:35px;
+        
+    }
      
 
 
